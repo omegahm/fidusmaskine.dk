@@ -1,3 +1,3 @@
 #!/bin/sh
 
-scp index.html fidusmaskine.dk@linux115.unoeuro.com:public_html/.
+scp index.html fidusmaskine.dk:public_html/.
